@@ -7,6 +7,7 @@
   "author"       : "Kevin Chisholm",
   "scripts": {
     "start": "node app.js"
+    "predeploy": "npm run build",
   },
   "dependencies" : {
     "express"    : "latest",
