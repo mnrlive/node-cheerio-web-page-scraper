@@ -1,6 +1,7 @@
 {
   "name"         : "node-cheerio-web-page-scraper",
   "version"      : "0.0.1",
+  "homepage"     : "https://mnrlive.github.io/scraper",
   "description"  : "Provides metadata and image info for any web page as JSON",
   "main"         : "app.js",
   "author"       : "Kevin Chisholm",
